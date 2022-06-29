@@ -1,0 +1,173 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Ex17",
+      "request": "launch",
+      "mainClass": "Ex17",
+      "projectName": "Lista 1_d15692b1"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex11",
+      "request": "launch",
+      "mainClass": "Ex11",
+      "projectName": "Lista 1_d15692b1"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex17",
+      "request": "launch",
+      "mainClass": "Ex17",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex16",
+      "request": "launch",
+      "mainClass": "Ex16",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex15",
+      "request": "launch",
+      "mainClass": "Ex15",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex14",
+      "request": "launch",
+      "mainClass": "Ex14",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex13",
+      "request": "launch",
+      "mainClass": "Ex13",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex12",
+      "request": "launch",
+      "mainClass": "Ex12",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex18",
+      "request": "launch",
+      "mainClass": "Ex18",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex10",
+      "request": "launch",
+      "mainClass": "Ex10",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex08",
+      "request": "launch",
+      "mainClass": "Ex08",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex07",
+      "request": "launch",
+      "mainClass": "Ex07",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex09",
+      "request": "launch",
+      "mainClass": "Ex09",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex11",
+      "request": "launch",
+      "mainClass": "Ex11",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex06",
+      "request": "launch",
+      "mainClass": "Ex06",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex03",
+      "request": "launch",
+      "mainClass": "Ex03",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex04",
+      "request": "launch",
+      "mainClass": "Ex04",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex02",
+      "request": "launch",
+      "mainClass": "Ex02",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex01",
+      "request": "launch",
+      "mainClass": "Ex01",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex05",
+      "request": "launch",
+      "mainClass": "Ex05",
+      "projectName": "Atividade - Para Entregar_c0a834f3"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "e:\\Materias 2- Semestre\\Luciana - Java\\Atividade - Para Entregar",
+      "environment": [],
+      "program": "e:\\Materias 2- Semestre\\Luciana - Java\\Atividade - Para Entregar\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
